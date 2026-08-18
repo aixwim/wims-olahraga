@@ -1,0 +1,28 @@
+{
+  "repo": "wims-olahraga",
+  "siteName": "Wim Olahraga",
+  "logoText": "olahraga",
+  "logoPrefix": "wim",
+  "tagline": "Tagline Wim Olahraga",
+  "description": "Deskripsi meta Wim Olahraga.",
+  "ogTitle": "Judul OG<br>untuk Wim Olahraga",
+  "ogSubtitle": "Subtitle OG singkat dan informatif.",
+  "category": "olahraga",
+  "categoryLabel": "Olahraga",
+  "parent": "wims",
+  "children": [
+    "wims-olahraga-sepakbola"
+  ],
+  "related": [
+    "wims-berita",
+    "wims-living"
+  ],
+  "brand": {
+    "accent": "#3b82f6",
+    "accent2": "#22c55e"
+  },
+  "giscus": {
+    "repoId": "REPO_ID",
+    "categoryId": "CATEGORY_ID"
+  }
+}
