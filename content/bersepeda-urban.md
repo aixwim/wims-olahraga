@@ -3,6 +3,8 @@ title: "Bersepeda di Perkotaan: Manfaat dan Tips Aman"
 date: "2026-08-18"
 category: "Olahraga"
 excerpt: "Bersepeda urban menawarkan manfaat kesehatan dan mobilitas praktis. Simak tips aman bersepeda di kota, dari perlengkapan hingga etika berlalu lintas."
+meta_title: "Bersepeda di Perkotaan: Manfaat dan Tips Aman"
+meta_description: "Bersepeda urban menawarkan manfaat kesehatan dan mobilitas praktis di kota. Simak tips aman bersepeda, dari perlengkapan hingga etika berlalu lintas."
 tags: ["bersepeda", "transportasi", "perkotaan", "olahraga"]
 ---
 

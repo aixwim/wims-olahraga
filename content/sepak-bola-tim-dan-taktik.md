@@ -3,6 +3,8 @@ title: "Memahami Taktik Sepak Bola Tim untuk Penonton Cerdas"
 date: "2026-08-18"
 category: "Olahraga"
 excerpt: "Panduan memahami taktik sepak bola tim: formasi dasar, peran pemain, pressing, dan transisi agar menonton pertandingan menjadi lebih seru."
+meta_title: "Memahami Taktik Sepak Bola Tim untuk Penonton"
+meta_description: "Pahami taktik sepak bola agar menonton pertandingan semakin seru. Kenali formasi dasar, peran pemain, pressing, dan transisi dalam permainan."
 tags: ["sepak bola", "taktik", "formasi", "olahraga"]
 ---
 

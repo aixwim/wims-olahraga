@@ -3,6 +3,8 @@ title: "Panduan Renang untuk Pemula"
 date: "2026-08-19"
 category: "Olahraga"
 excerpt: "Renang adalah olahraga rendah risiko yang melatih seluruh tubuh. Simak panduan pemula, dari persiapan peralatan hingga teknik pertama yang aman."
+meta_title: "Panduan Renang untuk Pemula yang Aman dan Mudah"
+meta_description: "Renang adalah olahraga rendah risiko yang melatih seluruh tubuh. Simak panduan pemula, dari persiapan peralatan hingga teknik pertama yang aman."
 tags: ["renang", "pemula", "kebugaran", "olahraga"]
 ---
 

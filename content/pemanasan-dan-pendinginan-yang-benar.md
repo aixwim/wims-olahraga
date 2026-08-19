@@ -3,6 +3,8 @@ title: "Pemanasan dan Pendinginan yang Benar"
 date: "2026-08-19"
 category: "Olahraga"
 excerpt: "Pemanasan dan pendinginan yang benar mencegah cedera dan mempercepat pemulihan. Pelajari cara melakukannya dengan aman dan efektif sebelum berolahraga."
+meta_title: "Pemanasan dan Pendinginan yang Benar agar Aman"
+meta_description: "Pemanasan dan pendinginan mencegah cedera sekaligus mempercepat pemulihan. Pelajari cara melakukannya dengan benar dan aman sebelum dan sesudah olahraga."
 tags: ["pemanasan", "pendinginan", "pemula", "kebugaran"]
 ---
 

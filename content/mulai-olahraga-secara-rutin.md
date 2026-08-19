@@ -3,6 +3,8 @@ title: "Mulai Olahraga Secara Rutin: Tips untuk Pemula"
 date: "2026-08-18"
 category: "Olahraga"
 excerpt: "Panduan memulai olahraga rutin untuk pemula: pilih aktivitas yang disukai, mulailah bertahap, tetapkan jadwal, dan jaga konsistensi."
+meta_title: "Tips Memulai Olahraga Rutin untuk Pemula"
+meta_description: "Mulai olahraga rutin tidak harus berat, yang terpenting konsisten. Simak langkah praktis memilih aktivitas, menyusun jadwal, dan menjaga motivasi."
 tags: ["olahraga", "kebugaran", "pemula", "kesehatan"]
 ---
 

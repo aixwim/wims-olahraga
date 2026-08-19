@@ -3,6 +3,8 @@ title: "Nutrisi Sebelum dan Sesudah Olahraga"
 date: "2026-08-19"
 category: "Olahraga"
 excerpt: "Makanan yang tepat sebelum dan sesudah olahraga menentukan energi, performa, dan pemulihan tubuh. Simak panduan nutrisi yang praktis dan mudah."
+meta_title: "Nutrisi Sebelum dan Sesudah Olahraga yang Tepat"
+meta_description: "Makanan sebelum dan sesudah olahraga menentukan energi, performa, dan pemulihan. Simak panduan nutrisi praktis agar hasil latihan lebih maksimal."
 tags: ["nutrisi", "makanan", "kebugaran", "olahraga"]
 ---
 

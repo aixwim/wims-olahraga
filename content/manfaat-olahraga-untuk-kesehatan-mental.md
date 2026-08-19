@@ -3,6 +3,8 @@ title: "Manfaat Olahraga untuk Kesehatan Mental"
 date: "2026-08-19"
 category: "Olahraga"
 excerpt: "Olahraga bukan hanya menyehatkan tubuh, tetapi juga mengurangi stres, mengatasi kecemasan, dan memperbaiki suasana hati. Temukan cara kerjanya di sini."
+meta_title: "Manfaat Olahraga untuk Kesehatan Mental"
+meta_description: "Olahraga tidak hanya menyehatkan tubuh, tapi juga meredakan stres dan memperbaiki suasana hati. Simak bagaimana aktivitas fisik menjaga kesehatan mental."
 tags: ["kesehatan mental", "olahraga", "stres", "kebugaran"]
 ---
 

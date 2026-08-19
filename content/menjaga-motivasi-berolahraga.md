@@ -3,6 +3,8 @@ title: "Menjaga Motivasi Berolahraga"
 date: "2026-08-19"
 category: "Olahraga"
 excerpt: "Motivasi berolahraga sering naik turun. Temukan cara menjaga semangat tetap hidup, mulai dari menetapkan tujuan realistis hingga menemukan teman latihan."
+meta_title: "Cara Menjaga Motivasi Berolahraga Tetap Hidup"
+meta_description: "Motivasi berolahraga memang naik turun. Temukan cara menjaga semangat lewat tujuan realistis, aktivitas menyenangkan, dan ritme latihan yang manusiawi."
 tags: ["motivasi", "olahraga", "rutin", "kebugaran"]
 ---
 

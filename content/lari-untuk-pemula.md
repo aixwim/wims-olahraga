@@ -3,6 +3,8 @@ title: "Panduan Memulai Lari untuk Pemula"
 date: "2026-08-18"
 category: "Olahraga"
 excerpt: "Panduan memulai lari untuk pemula: pilih sepatu yang tepat, bangun kebiasaan dengan berlari santai, dan tingkatkan jarak secara bertahap."
+meta_title: "Panduan Memulai Lari untuk Pemula"
+meta_description: "Memulai lari tidak perlu cepat, yang penting bertahap dan konsisten. Pelajari cara memilih sepatu, teknik dasar, dan tips menjaga motivasi berlari."
 tags: ["lari", "jogging", "pemula", "kebugaran"]
 ---
 
